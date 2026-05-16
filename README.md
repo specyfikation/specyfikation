@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=./init+specyfikation.exe;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=specyfikation%40github+~+%24;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/%40specyfikation-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/specyfikation)
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/specyfikation)
@@ -19,11 +19,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `> SYSTEM.IDENTIFY`
+## `> whoami`
 
 ```python
 #!/usr/bin/env python3
-# ── specyfikation :: profile.py ──────────────────────────────
 
 class Developer:
     alias    = "Spεcy"
@@ -40,7 +39,7 @@ print(Developer().connect())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `> TECH.STACK --list`
+## `> cat stack.conf`
 
 <div align="center">
 
@@ -56,47 +55,45 @@ print(Developer().connect())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `> GITHUB.STATS --verbose`
+## `> gh api stats --live`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=specyfikation&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=specyfikation&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="49%" />
+<table>
+<tr>
+<td>
 
-<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=specyfikation&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=github.stats+--live)
 
-<img src="https://streak-stats.demolab.com?user=specyfikation&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF003C&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" width="70%" />
+</td>
+<td>
 
-<br/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=specyfikation&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&custom_title=languages.used)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=specyfikation&bg_color=0D1117&color=00FF41&line=00FF41&point=FF003C&area=true&hide_border=true)
+</td>
+</tr>
+</table>
 
-</div>
+![Streak](https://streak-stats.demolab.com?user=specyfikation&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF003C&currStreakLabel=00FF41&sideLabels=00FF41&dates=666666&stroke=00FF4133)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `> TERMINAL.SESSION --replay`
-
-<div align="center">
-
-[![terminal](https://raw.githubusercontent.com/specyfikation/specyfikation/main/terminal.svg)](https://github.com/specyfikation)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=specyfikation&bg_color=0D1117&color=00FF41&line=00FF41&point=FF003C&area_color=00FF4133&area=true&hide_border=true&custom_title=contribution.graph+--30d)
 
 </div>
-
-> **Note :** Pour afficher le terminal animé, génère le SVG avec [svg-term-cli](https://github.com/marionebl/svg-term-cli) et pousse `terminal.svg` à la racine du repo `specyfikation/specyfikation`.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║  >> open to collabs & wild projects      ║
-║  >> ping me on X @specyfikation          ║
-║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%   ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║  specyfikation@github ~ $ █                  ║
+║                                              ║
+║  >> open to collabs & wild projects          ║
+║  >> ping me anytime  @specyfikation          ║
+║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%       ║
+╚══════════════════════════════════════════════╝
 ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=specyfikation.specyfikation&color=00FF41&labelColor=0D1117&label=VISITORS)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=specyfikation.specyfikation&color=00FF41&labelColor=0D1117&label=VISITORS&logo=github)
 
 </div>
